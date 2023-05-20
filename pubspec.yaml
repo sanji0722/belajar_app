@@ -5,9 +5,15 @@ version: 1.0.0
 
 environment:
   sdk: '>=2.18.6 <3.0.0'
+publish_to: none
+dependencies:
+  nama_library:
+    git: 
+      url : https://github.com/sanji0722/nama_library.git
+      ref: 1.0.0
 
-# dependencies:
-#   path: ^1.8.0
+      
+
 
 dev_dependencies:
   lints: ^2.0.0

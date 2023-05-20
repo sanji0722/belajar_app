@@ -148,6 +148,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.4"
+  nama_library:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: "1.0.0"
+      resolved-ref: "7c328d31e7b3bb8246a0e1038055403f14551d5f"
+      url: "https://github.com/sanji0722/nama_library.git"
+    source: git
+    version: "1.0.0"
   node_preamble:
     dependency: transitive
     description:
